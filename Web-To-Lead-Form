@@ -50,7 +50,7 @@
             <h2>Request for More Information</h2>
             <form action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8&orgId=00Dal000001Uv6j" method="POST">
               <input type="hidden" name="oid" value="00Dal000001Uv6j">
-              <input type="hidden" name="retURL" value="https://www.upwnow.com/thank-you-upw?submissionGuid=c3ea8683-6cec-4410-a964-93d352bf802c?">
+              <input type="hidden" name="retURL" value="https://github.com/ayonsarai/thankyouforyoursubmission.git">
               <label for="first_name">First Name</label>
               <input id="first_name" maxlength="40" name="first_name" type="text" required><br>
               <label for="last_name">Last Name</label>
